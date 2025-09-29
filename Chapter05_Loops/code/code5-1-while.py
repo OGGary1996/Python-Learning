@@ -12,9 +12,6 @@
 #     n += 2
 # print(result)
 
-while '111':
-    print(1)
-
-
-
+# while '111':
+#     print(1)
 

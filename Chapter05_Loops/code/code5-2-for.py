@@ -49,4 +49,13 @@
 #     n +=1
 # print(result2)
 
+result_1 = 0
+for i in range(1,11):
+    result_2 = 1
+    for j in range(1,i+1):
+        result_2 *= j
+    result_1 += result_2
+
+print(result_1)
+
 
