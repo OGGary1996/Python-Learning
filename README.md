@@ -106,10 +106,10 @@ This repository serves as a complete Python learning curriculum, organized into 
 
 ```bash
 # Navigate to any chapter's code directory
-cd "Chapter02_Variables_and_Data_Types/code"
+cd "2_Variables_and_Data_Types/code"
 
 # Run any Python file
-python code2-1-create_variables.py
+python 1-create_variables.py
 ```
 
 ## 🎯 Learning Objectives
